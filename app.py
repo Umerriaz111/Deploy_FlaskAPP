@@ -766,4 +766,4 @@ def run_app():
     return app
 
 if __name__ == '__main__':
-    app = run_app()
+    app = app.run()
